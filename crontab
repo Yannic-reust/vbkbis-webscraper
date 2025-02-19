@@ -1,0 +1,1 @@
+* * * * * node /app/scraper.js >> /var/log/scraper.log 2>&1
