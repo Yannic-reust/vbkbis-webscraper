@@ -29,3 +29,4 @@ html
 
 # Env Vars
 .env
+.vercel
